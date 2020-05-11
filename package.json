@@ -1,0 +1,15 @@
+{
+  "name": "cloudgate-samples",
+  "version": "1.0.0",
+  "description": "samples for cloudgate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elestio/cloudgate-samples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elestio/cloudgate-samples/issues"
+  },
+  "homepage": "https://github.com/elestio/cloudgate-samples#readme"
+}
